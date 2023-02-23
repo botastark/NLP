@@ -5,4 +5,4 @@ HW1 - Named Entity Recognition
 
 HW2 - Semantic Role Labeling
 
-HW3 - Coherence Resolution(Entity Resolution step)
+HW3 - Coherence Resolution(Entity Resolution step by ProBERT)
