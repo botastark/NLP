@@ -1,4 +1,4 @@
-# NLP_hws
+# NLP
 Natural Language Processing class assignments taught at Sapienza University
 
 HW1 - Named Entity Recognition [trained models](https://drive.google.com/drive/folders/1DFHWkWr2QcS-Xe4EGaheQN0RAj9w-DDU?usp=drive_link)
